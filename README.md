@@ -14,11 +14,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green?style=plastic&logo=PostgreSQL&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=black)
 ![Mockito](https://img.shields.io/badge/Mockito-green?style=plastic)
-![Mockito](https://img.shields.io/badge/SLF4J-yellow?style=plastic)
-![Mockito](https://img.shields.io/badge/Lombok-red?style=plastic)
-![Mockito](https://img.shields.io/badge/H2-blueviolet?style=plastic)
+![SLF4J](https://img.shields.io/badge/SLF4J-yellow?style=plastic)
+![Lombok](https://img.shields.io/badge/Lombok-red?style=plastic)
+![H2](https://img.shields.io/badge/H2-blueviolet?style=plastic)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![dbeaver](https://img.shields.io/badge/dbeaver-blueviolet?style=plastic)
 
-Заканчиваю обучение на образовательной платформе Яндекс.Практикум по направлению Java-разработчик.
+Завершаю обучение на образовательной платформе Яндекс.Практикум по направлению Java-разработчик.
 
 В свободное время увлекаюсь мейкерством с использованием микроконтроллеров AVR и STM32, а также одноплатных компьютеров Raspberry.
 
