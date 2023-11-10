@@ -21,14 +21,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![dbeaver](https://img.shields.io/badge/dbeaver-blueviolet?style=plastic)
 
-Завершаю обучение на образовательной платформе Яндекс.Практикум по направлению Java-разработчик.
-
 В свободное время увлекаюсь мейкерством с использованием микроконтроллеров AVR и STM32, а также одноплатных компьютеров Raspberry.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanMartynovLETI&show_icons=true&theme=merko
 )](https://github.com/anuraghazra/github-readme-stats)
 
 Наиболее характерными моими проектами являются:
+* **Приложение [Java-Explore-With-Me](https://github.com/IvanMartynovLETI/java-explore-with-me)** - бэкенд микросервисного приложения, представляющего собой афишу мероприятий и
+  позволяющего предложить мероприятие, а также собрать компанию для похода на него. 
 * **Приложение [Java-shareit](https://github.com/IvanMartynovLETI/java-shareit)** - сервис для аренды вещей, позволяющий добавлять новые вещи, производить поиск требуемой вещи по
   названию и описанию, осуществлять запрос на добавление требуемой вещи, откликаться на запрос и добавлять вещь, арендовать вещь и оставлять на нее отзыв после аренды. Характерной
   особенностью данного приложения является его микросервисная архитектура; при старте приложения разворачиваются контейнеры, содержащие шлюз, сервер и базу данных. Использование
