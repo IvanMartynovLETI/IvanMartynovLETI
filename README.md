@@ -23,7 +23,7 @@
 
 В свободное время увлекаюсь мейкерством с использованием микроконтроллеров AVR и STM32, а также одноплатных компьютеров Raspberry.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanmartynovleti&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanMartynovLETI&theme=solarized_dark)
 
 Наиболее характерными моими проектами являются:
 * **Приложение [Java-Explore-With-Me](https://github.com/IvanMartynovLETI/java-explore-with-me)** - бэкенд микросервисного приложения, представляющего собой афишу мероприятий и
