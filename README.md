@@ -23,8 +23,7 @@
 
 В свободное время увлекаюсь мейкерством с использованием микроконтроллеров AVR и STM32, а также одноплатных компьютеров Raspberry.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanMartynovLETI&show_icons=true&theme=merko
-)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kozjulia&theme=solarized_dark)
 
 Наиболее характерными моими проектами являются:
 * **Приложение [Java-Explore-With-Me](https://github.com/IvanMartynovLETI/java-explore-with-me)** - бэкенд микросервисного приложения, представляющего собой афишу мероприятий и
